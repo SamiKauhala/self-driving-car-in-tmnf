@@ -1,0 +1,8 @@
+*.npy
+__*
+log
+data
+checkpoint
+.vscode
+models
+*.mp4
